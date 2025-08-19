@@ -7,7 +7,7 @@
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-parent</artifactId>
     <version>3.3.2</version> <!-- {x-version-update;springboot3_org.springframework.boot:spring-boot-starter-parent;external_dependency} -->
-    <relativePath /> <!-- lookup parent from repository -->
+    <relativePath/> <!-- lookup parent from repository -->
   </parent>
   <groupId>com.azure.spring</groupId>
   <artifactId>spring-cloud-azure-integration-test-appconfiguration-config</artifactId>
@@ -20,7 +20,7 @@
     <dependency>
       <groupId>com.azure.spring</groupId>
       <artifactId>spring-cloud-azure-starter-appconfiguration-config</artifactId>
-      <version>5.15.0-beta.1</version> <!-- {x-version-update;com.azure.spring:spring-cloud-azure-starter-appconfiguration-config;current} -->
+      <version>5.23.0</version> <!-- {x-version-update;com.azure.spring:spring-cloud-azure-starter-appconfiguration-config;current} -->
     </dependency>
     <dependency>
       <groupId>org.springframework.boot</groupId>
