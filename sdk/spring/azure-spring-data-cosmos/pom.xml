@@ -63,27 +63,27 @@
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-web</artifactId>
-      <version>6.1.11</version> <!-- {x-version-update;springboot3_org.springframework:spring-web;external_dependency} -->
+      <version>6.2.10</version> <!-- {x-version-update;springboot3_org.springframework:spring-web;external_dependency} -->
     </dependency>
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-beans</artifactId>
-      <version>6.1.11</version> <!-- {x-version-update;springboot3_org.springframework:spring-beans;external_dependency} -->
+      <version>6.2.10</version> <!-- {x-version-update;springboot3_org.springframework:spring-beans;external_dependency} -->
     </dependency>
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-context</artifactId>
-      <version>6.1.11</version> <!-- {x-version-update;springboot3_org.springframework:spring-context;external_dependency} -->
+      <version>6.2.10</version> <!-- {x-version-update;springboot3_org.springframework:spring-context;external_dependency} -->
     </dependency>
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-tx</artifactId>
-      <version>6.1.11</version> <!-- {x-version-update;springboot3_org.springframework:spring-tx;external_dependency} -->
+      <version>6.2.10</version> <!-- {x-version-update;springboot3_org.springframework:spring-tx;external_dependency} -->
     </dependency>
     <dependency>
       <groupId>org.springframework.data</groupId>
       <artifactId>spring-data-commons</artifactId>
-      <version>3.3.2</version> <!-- {x-version-update;springboot3_org.springframework.data:spring-data-commons;external_dependency} -->
+      <version>3.4.9</version> <!-- {x-version-update;springboot3_org.springframework.data:spring-data-commons;external_dependency} -->
       <exclusions>
         <exclusion>
           <groupId>org.slf4j</groupId>
