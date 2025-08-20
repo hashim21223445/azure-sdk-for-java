@@ -74,7 +74,7 @@
     <dependency>
       <groupId>com.azure</groupId>
       <artifactId>azure-identity</artifactId>
-      <version>1.13.2</version> <!-- {x-version-update;com.azure:azure-identity;dependency} -->
+      <version>1.17.0</version> <!-- {x-version-update;com.azure:azure-identity;dependency} -->
     </dependency>
     <dependency>
       <groupId>com.jcraft</groupId>
@@ -89,7 +89,7 @@
     <dependency>
       <groupId>com.github.docker-java</groupId>
       <artifactId>docker-java</artifactId>
-      <version>3.2.1</version>  <!-- {x-version-update;com.github.docker-java:docker-java;external_dependency} -->
+      <version>3.3.3</version>  <!-- {x-version-update;com.github.docker-java:docker-java;external_dependency} -->
     </dependency>
     <dependency>
       <groupId>org.apache.httpcomponents</groupId>
