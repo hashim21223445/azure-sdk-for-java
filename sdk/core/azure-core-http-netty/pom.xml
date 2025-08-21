@@ -51,7 +51,7 @@
       --add-opens com.azure.http.netty/com.azure.core.http.netty=ALL-UNNAMED
       --add-opens com.azure.http.netty/com.azure.core.http.netty.implementation=ALL-UNNAMED
     </javaModulesSurefireArgLine>
-    <boring-ssl-classifier></boring-ssl-classifier>
+    <boring-ssl-classifier/>
 
     <!-- Enables fail on deprecated API usage. -->
     <compiler.failondeprecatedstatus/>
@@ -115,7 +115,7 @@
     <dependency>
       <groupId>io.netty</groupId>
       <artifactId>netty-codec-http2</artifactId>
-      <version>4.1.110.Final</version> <!-- {x-version-update;io.netty:netty-codec-http2;external_dependency} -->
+      <version>4.1.124.Final</version> <!-- {x-version-update;io.netty:netty-codec-http2;external_dependency} -->
     </dependency>
     <dependency>
       <groupId>io.netty</groupId>
@@ -145,7 +145,7 @@
     <dependency>
       <groupId>io.projectreactor.netty</groupId>
       <artifactId>reactor-netty-http</artifactId>
-      <version>1.0.45</version> <!-- {x-version-update;io.projectreactor.netty:reactor-netty-http;external_dependency} -->
+      <version>1.2.8</version> <!-- {x-version-update;io.projectreactor.netty:reactor-netty-http;external_dependency} -->
     </dependency>
 
     <dependency>
