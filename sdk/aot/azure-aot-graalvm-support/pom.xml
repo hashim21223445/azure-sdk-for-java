@@ -61,12 +61,12 @@
         <dependency>
             <groupId>org.graalvm.sdk</groupId>
             <artifactId>graal-sdk</artifactId>
-            <version>22.0.0.2</version>  <!-- {x-version-update;org.graalvm.sdk:graal-sdk;external_dependency} -->
+            <version>24.0.2</version>  <!-- {x-version-update;org.graalvm.sdk:graal-sdk;external_dependency} -->
         </dependency>
         <dependency>
             <groupId>org.graalvm.nativeimage</groupId>
             <artifactId>svm</artifactId>
-            <version>22.0.0.2</version>  <!-- {x-version-update;org.graalvm.nativeimage:svm;external_dependency} -->
+            <version>23.1.0</version>  <!-- {x-version-update;org.graalvm.nativeimage:svm;external_dependency} -->
         </dependency>
     </dependencies>
 
