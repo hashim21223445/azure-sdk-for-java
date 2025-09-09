@@ -71,7 +71,7 @@
         <dependency>
             <groupId>io.netty</groupId>
             <artifactId>netty-handler-proxy</artifactId>
-            <version>4.1.110.Final</version> <!-- {x-version-update;io.netty:netty-handler-proxy;external_dependency} -->
+            <version>4.1.125.Final</version> <!-- {x-version-update;io.netty:netty-handler-proxy;external_dependency} -->
         </dependency>
         <dependency>
             <groupId>io.netty</groupId>
@@ -81,13 +81,13 @@
         <dependency>
             <groupId>io.netty</groupId>
             <artifactId>netty-codec-http</artifactId>
-            <version>4.1.110.Final</version> <!-- {x-version-update;io.netty:netty-codec-http;external_dependency} -->
+            <version>4.1.125.Final</version> <!-- {x-version-update;io.netty:netty-codec-http;external_dependency} -->
         </dependency>
 
         <dependency>
             <groupId>io.netty</groupId>
             <artifactId>netty-codec-http2</artifactId>
-            <version>4.1.110.Final</version> <!-- {x-version-update;io.netty:netty-codec-http2;external_dependency} -->
+            <version>4.1.125.Final</version> <!-- {x-version-update;io.netty:netty-codec-http2;external_dependency} -->
         </dependency>
         <dependency>
             <groupId>io.netty</groupId>
