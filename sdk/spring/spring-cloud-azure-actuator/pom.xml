@@ -44,7 +44,7 @@
     <dependency>
       <groupId>org.springframework.boot</groupId>
       <artifactId>spring-boot-actuator</artifactId>
-      <version>3.3.2</version> <!-- {x-version-update;springboot3_org.springframework.boot:spring-boot-actuator;external_dependency} -->
+      <version>3.4.10</version> <!-- {x-version-update;springboot3_org.springframework.boot:spring-boot-actuator;external_dependency} -->
       <scope>compile</scope>
     </dependency>
 
