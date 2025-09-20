@@ -39,7 +39,7 @@
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-context</artifactId>
-      <version>6.1.11</version> <!-- {x-version-update;springboot3_org.springframework:spring-context;external_dependency} -->
+      <version>6.2.11</version> <!-- {x-version-update;springboot3_org.springframework:spring-context;external_dependency} -->
     </dependency>
     <dependency>
       <groupId>com.azure</groupId>
@@ -49,7 +49,7 @@
     <dependency>
       <groupId>com.azure</groupId>
       <artifactId>azure-identity</artifactId>
-      <version>1.13.2</version> <!-- {x-version-update;com.azure:azure-identity;dependency} -->
+      <version>1.18.0</version> <!-- {x-version-update;com.azure:azure-identity;dependency} -->
     </dependency>
     <dependency>
       <groupId>com.azure</groupId>
