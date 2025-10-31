@@ -14,8 +14,8 @@
   <description>Integration of Spring Cloud Config and Azure App Configuration Service</description>
   <properties>
     <codesnippet.skip>false</codesnippet.skip>
-    <javadocDoclet></javadocDoclet>
-    <javadocDocletOptions></javadocDocletOptions>
+    <javadocDoclet/>
+    <javadocDocletOptions/>
   </properties>
   <dependencies>
     <dependency>
@@ -48,7 +48,7 @@
     <dependency>
       <groupId>com.azure</groupId>
       <artifactId>azure-data-appconfiguration</artifactId>
-      <version>1.6.3</version> <!-- {x-version-update;com.azure:azure-data-appconfiguration;dependency} -->
+      <version>1.8.5</version> <!-- {x-version-update;com.azure:azure-data-appconfiguration;dependency} -->
     </dependency>
     <dependency>
       <groupId>com.azure</groupId>
