@@ -89,7 +89,7 @@
     <dependency>
       <groupId>com.github.docker-java</groupId>
       <artifactId>docker-java</artifactId>
-      <version>3.2.1</version>  <!-- {x-version-update;com.github.docker-java:docker-java;external_dependency} -->
+      <version>3.7.0</version>  <!-- {x-version-update;com.github.docker-java:docker-java;external_dependency} -->
     </dependency>
     <dependency>
       <groupId>org.apache.httpcomponents</groupId>
@@ -129,7 +129,7 @@
     <dependency>
       <groupId>io.fabric8</groupId>
       <artifactId>kubernetes-client</artifactId>
-      <version>6.12.1</version> <!-- {x-version-update;io.fabric8:kubernetes-client;external_dependency} -->
+      <version>7.0.0</version> <!-- {x-version-update;io.fabric8:kubernetes-client;external_dependency} -->
     </dependency>
     <dependency>
       <groupId>com.microsoft.sqlserver</groupId>
